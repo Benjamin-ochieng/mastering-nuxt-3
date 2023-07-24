@@ -2,7 +2,7 @@
   <div
     class="
       p-12
-      bg-gray-100
+      bg-blue-400
       w-full
       h-full
       min-h-screen
